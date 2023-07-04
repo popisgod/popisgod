@@ -11,6 +11,20 @@
 ## Skills
 
 ## Projects 
+<a href="https://github.com/popisgod/Chat_Room">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=popisgod&repo=Chat_Room&theme=tokyonight" />
+  
+</a>
+
+
+
+<a href="https://github.com/popisgod/Torrent">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=popisgod&repo=Torrent&theme=tokyonight" />
+  
+</a>
+
 
 ## Roadmap 
 
@@ -26,6 +40,10 @@
   <a href="https://www.linkedin.com/in/ron-glozman-41724322b/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;">
   </a>
+  <a href="mailto:ronglozman2006@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  </a>
+
 <h3 align="center"><b>I would love to hear back from you!!!</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/popisgod/popisgod/output/github-contribution-grid-snake-dark.svg">
