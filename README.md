@@ -8,12 +8,12 @@
 
 ## About me 
 
-
 ## Skills
+
+## Projects 
 
 ## Roadmap 
 
-## Road map 
 
 ## Connect with me 
 <div align="center">
@@ -26,10 +26,7 @@
   <a href="https://www.linkedin.com/in/ron-glozman-41724322b/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;">
   </a>
-  
 <h3 align="center"><b>I would love to hear back from you!!!</h3>
-
-  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/popisgod/popisgod/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/popisgod/popisgod/output/github-contribution-grid-snake.svg">
