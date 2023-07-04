@@ -30,7 +30,10 @@
 <h3 align="center"><b>I would love to hear back from you!!!</h3>
 
   
-![GIF](https://media.giphy.com/media/3osxYzuMvUJJcqzND2/giphy.gif)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/popisgod/popisgod/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/popisgod/popisgod/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/popisgod/popisgod/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
