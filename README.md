@@ -8,7 +8,12 @@
 
 ## About me 
 
-## Skills
+
+
+## Tech Stack 
+
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=popisgod&theme=tokyonight&layout=compact">
 
 ## Projects 
 <a href="https://github.com/popisgod/Chat_Room">
@@ -27,6 +32,14 @@
 
 
 ## Roadmap 
+
+<span style="color: green;">&#x2713;</span> Studying networking in Python <br>
+<span style="color: green;">&#x2713;</span> Creating a Torrent <br> 
+<span style="color: red;">&#x2610;</span> Studying reverse engineering <br> 
+<span style="color: red;">&#x2610;</span> Automation using OpenCV <br> 
+<span style="color: red;">&#x2610;</span> Creating a portfolio website <br>
+
+
 
 
 ## Connect with me 
