@@ -9,8 +9,10 @@
 ## 👨‍💻 About me 
 
 
+
 ## 🛠️ Tech Stack 
-### Programming languages
+<h3 align="left"><b>Programming languages </b><img src="https://github.com/popisgod/popisgod/assets/93617974/b4de2f28-88c1-4e69-914f-e458fa5e80db" width="35" height = "35" style="vertical-align: middle;"></h3> 
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="javascript" src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=black&color=FFFF00&logoColor=white&label=%20">
 </a>
@@ -24,23 +26,27 @@
   <img alt="assemblyx86" src="https://img.shields.io/static/v1?message=AssemblyX86&logo=AssemblyScript&labelColor=black&color=gray&logoColor=white&label=%20">
 </a>
 
-### Frontend Development
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img alt="javascript" src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=black&color=FFFF00&logoColor=white&label=%20">
+<h3 align="left"><b>frontend development </b><img src="https://github.com/popisgod/popisgod/assets/93617974/f6bab6dd-e337-4d72-ad6a-383b8aecad09" width="35" height = "35" style="vertical-align: middle;"></h3> 
+
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> 
+    <img alt="HTML5" src="https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=white&color=orange&logoColor=orange&label=%20">
 </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank"> 
-  <img alt="csharp" src="https://img.shields.io/static/v1?message=csharp&logo=csharp&labelColor=purple&color=pink&logoColor=white&label=%20">
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> 
+  <img alt="CSS3" src="https://img.shields.io/static/v1?message=css3&logo=CSS3&labelColor=white&color=blue&logoColor=blue&label=%20">
 </a>
-  <a href="https://www.python.org" target="_blank"> 
-  <img alt="python" src="https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=yellow&color=blue&logoColor=white&label=%20">
+  <a href="https://getbootstrap.com/" target="_blank"> 
+  <img alt="Bootstrap" src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=white&color=purple&logoColor=purple&label=%20">
 </a>
-  <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank"> 
-  <img alt="assemblyx86" src="https://img.shields.io/static/v1?message=AssemblyX86&logo=AssemblyScript&labelColor=black&color=gray&logoColor=white&label=%20">
+  <a href="https://react.dev/" target="_blank"> 
+  <img alt="React" src="https://img.shields.io/static/v1?message=React&logo=react&labelColor=white&color=cyan&logoColor=cyan&label=%20">
 </a>
 
-### Databases & Cloud Hosting
 
-### Software & Tools
+<h3 align="left"><b>Databases & Cloud Hosting </b><img src="https://github.com/popisgod/popisgod/assets/93617974/9a90c5ff-ab97-4cdd-8d66-9b610aef7812" width="35" height = "35" style="vertical-align: middle;"></h3> 
+
+
+<h3 align="left"><b>Software & Tools </b><img src="https://github.com/popisgod/popisgod/assets/93617974/05a47224-7fca-4654-8c0c-7bc6bfcadcbe" width="35" height = "35" style="vertical-align: middle;"></h3> 
+
 
 
 ## 📂 Projects 
