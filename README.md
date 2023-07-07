@@ -11,8 +11,7 @@
 
 
 ## 🛠️ Tech Stack 
-<h3 align="left"><b>Programming languages </b><img src="https://github.com/popisgod/popisgod/assets/93617974/b4de2f28-88c1-4e69-914f-e458fa5e80db" width="35" height = "35" style="vertical-align: middle;"></h3> 
-
+### Programming languages
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img alt="javascript" src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=black&color=FFFF00&logoColor=white&label=%20">
 </a>
@@ -26,8 +25,7 @@
   <img alt="assemblyx86" src="https://img.shields.io/static/v1?message=AssemblyX86&logo=AssemblyScript&labelColor=black&color=gray&logoColor=white&label=%20">
 </a>
 
-<h3 align="left"><b>frontend development </b><img src="https://github.com/popisgod/popisgod/assets/93617974/f6bab6dd-e337-4d72-ad6a-383b8aecad09" width="35" height = "35" style="vertical-align: middle;"></h3> 
-
+### frontend development
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"> 
     <img alt="HTML5" src="https://img.shields.io/static/v1?message=HTML5&logo=html5&labelColor=white&color=orange&logoColor=orange&label=%20">
 </a>
@@ -42,11 +40,9 @@
 </a>
 
 
-<h3 align="left"><b>Databases & Cloud Hosting </b><img src="https://github.com/popisgod/popisgod/assets/93617974/9a90c5ff-ab97-4cdd-8d66-9b610aef7812" width="35" height = "35" style="vertical-align: middle;"></h3> 
+### Databases & Cloud Hosting 
 
-
-<h3 align="left"><b>Software & Tools </b><img src="https://github.com/popisgod/popisgod/assets/93617974/05a47224-7fca-4654-8c0c-7bc6bfcadcbe" width="35" height = "35" style="vertical-align: middle;"></h3> 
-
+### Software & Tools
 
 
 ## 📂 Projects 
