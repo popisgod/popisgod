@@ -42,6 +42,10 @@
 
 ### Databases & Cloud Hosting 
 
+
+
+
+
 ### Software & Tools
 
 
@@ -71,7 +75,20 @@
 
 
 ## 📊 stats 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=popisgod&theme=tokyonight&layout=compact">
+
+<details>
+  <summary>⚡Github Profile Stats</summary> <br>
+  <img alt="popisgod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=popisgod&show_icons=true&count_private=true&theme=tokyonight"/>
+  <img alt="popisgod's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=popisgod&theme=tokyonight"/>
+  <img alt="popisgod's Top Languages "  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=popisgod&theme=tokyonight&layout=compact" width="400">
+  
+</details>
+
+<details> 
+<summary>🏆 Github Throphies </summary> <br>
+  <img alt="popisgod's Github Throphies" src="https://github-profile-trophy.vercel.app/?username=popisgod&theme=tokyonight&column=3" />
+</details>
+
 
 ## 🌐 Connect with me 
 <div align="center">
