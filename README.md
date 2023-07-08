@@ -41,12 +41,64 @@
 
 
 ### Databases & Cloud Hosting 
-
-
-
+  <a href="https://www.mongodb.com/" target="_blank"> 
+    <img alt="MongoDB" src="https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=black&color=green&logoColor=white&label=%20">
+</a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+  <img alt="MySQL" src="https://img.shields.io/static/v1?message=MySQL&logo=MySQL&labelColor=blue&color=orange&logoColor=orange&label=%20">
+</a>
+  <a href=https://www.sqlite.org/index.html" target="_blank"> 
+  <img alt="SQLite" src="https://img.shields.io/static/v1?message=SQLite&logo=SQLite&labelColor=white&color=blue&logoColor=044a64&label=%20">
+</a>
+  <a href="https://firebase.google.com/" target="_blank"> 
+  <img alt="Firebase" src="https://img.shields.io/static/v1?message=Firebase&logo=Firebase&labelColor=white&color=blue&logoColor=orange&label=%20">
+</a>
 
 
 ### Software & Tools
+<a href="https://git-scm.com/" target="_blank"> 
+  <img alt="Git" src="https://img.shields.io/static/v1?message=Git&logo=Git&labelColor=black&color=F05032&logoColor=F05032&label=%20">
+</a>
+
+<a href="https://github.com/" target="_blank"> 
+  <img alt="GitHub" src="https://img.shields.io/static/v1?message=GitHub&logo=GitHub&labelColor=black&color=181717&logoColor=white&label=%20">
+</a>
+
+<a href="https://visualstudio.microsoft.com/" target="_blank"> 
+  <img alt="Visual Studio" src="https://img.shields.io/static/v1?message=Visual%20Studio&logo=Visual%20Studio&labelColor=purple&color=5C2D91&logoColor=white&label=%20">
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank"> 
+  <img alt="Visual Studio Code" src="https://img.shields.io/static/v1?message=Visual%20Studio%20Code&logo=Visual%20Studio%20Code&labelColor=2c2c32&color=007ACC&logoColor=white&label=%20">
+</a>
+
+<a href="https://www.docker.com/" target="_blank"> 
+  <img alt="Docker" src="https://img.shields.io/static/v1?message=Docker&logo=Docker&labelColor=003f8c&color=blue&logoColor=white&label=%20">
+</a>
+
+<br>
+
+<a href="https://nmap.org/" target="_blank"> 
+  <img alt="Nmap" src="https://img.shields.io/static/v1?message=Nmap&logo=Nmap&labelColor=black&color=E16723&logoColor=E16723&label=%20">
+</a>
+
+<a href="https://www.wireshark.org/" target="_blank"> 
+  <img alt="Wireshark" src="https://img.shields.io/static/v1?message=Wireshark&logo=Wireshark&labelColor=lightblue&color=1679A7&logoColor=white&label=%20">
+</a>
+
+<a href="https://scapy.net/" target="_blank"> 
+  <img alt="Scapy" src="https://img.shields.io/static/v1?message=Scapy&logo=Python&labelColor=ffd343&color=3776AB&logoColor=white&label=%20">
+</a>
+
+<a href="https://www.selenium.dev/" target="_blank"> 
+  <img alt="Selenium" src="https://img.shields.io/static/v1?message=Selenium&logo=Selenium&labelColor=green&color=43B02A&logoColor=white&label=%20">
+</a>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank"> 
+  <img alt="FastAPI" src="https://img.shields.io/static/v1?message=FastAPI&logo=FastAPI&labelColor=009688&color=009688&logoColor=white&label=%20">
+</a>
+
+
 
 
 ## 📂 Projects 
