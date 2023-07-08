@@ -3,11 +3,21 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=200&pause=1000&color=F7E32F&background=F0DCFF00&center=true&width=600&lines=Lives+in+Israel+♥;Studies+computer+science+in+De+Shalit+high+school;Learning+to+be+a+Full+Stack+developer;Searching+for+a+job+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=200&pause=1000&color=F7E32F&background=F0DCFF00&center=true&width=600&lines=Lives+in+Israel+♥;Studies+computer+science+in+De+Shalit+high+school;Learning+to+be+a+cyber+security+developer;Searching+for+a+job+" alt="Typing SVG" /></a>
 </p>
 
 ## 👨‍💻 About me 
 
+Hi, I'm Ron Glozman 👋, a passionate high school student with a love for coding and exploring the exciting world of technology. I enjoy working with languages like JavaScript, C#, Python, and even AssemblyX86, constantly challenging myself to learn new concepts.
+
+When it comes to databases and cloud hosting, I'm comfortable working with MongoDB, MySQL, and SQLite to store and manage data effectively. I've also dabbled in Firebase and used it for my web projects.
+In my spare time, I enjoy creating web applications using frameworks like React. 
+
+In addition to my programming skills, I have a deep understanding of networking protocols and extensive knowledge of networking tools. I'm well-versed in protocols such as TCP/IP, DNS, HTTP, and more, and I know how to utilize tools like Nmap, Wireshark, and Scapy to analyze networks.
+
+As a student, I'm eager to gain experience and pursue a career in the cybersecurity space. I find the ever-evolving field fascinating and want to contribute to creating a more secure digital world. Currently, I'm actively seeking opportunities to apply my skills and knowledge. I'm looking for a job or internship in the cybersecurity field to further develop my expertise and contribute to real-world projects. If you have any exciting opportunities, feel free to reach out! 🚀
+
+Connect with me on GitHub, Twitter, or LinkedIn, and let's explore the possibilities together! 🤝
 
 
 ## 🛠️ Tech Stack 
