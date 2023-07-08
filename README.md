@@ -140,8 +140,10 @@ Connect with me on GitHub, Twitter, or LinkedIn, and let's explore the possibili
 
 <details>
   <summary>⚡Github Profile Stats</summary> <br>
-  <img alt="popisgod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=popisgod&show_icons=true&count_private=true&theme=tokyonight"/>
-  <img alt="popisgod's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=popisgod&theme=tokyonight"/>
+<div style="display: flex; justify-content: space-between;">
+  <img alt="popisgod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=popisgod&show_icons=true&count_private=true&theme=tokyonight">
+  <img alt="popisgod's Contribution Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=popisgod&theme=tokyonight">
+</div>
   <img alt="popisgod's Top Languages "  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=popisgod&theme=tokyonight&layout=compact" width="400">
   
 </details>
