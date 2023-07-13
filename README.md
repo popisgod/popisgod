@@ -112,9 +112,9 @@ Connect with me on GitHub, Twitter, or LinkedIn, and let's explore the possibili
 
 
 ## 📂 Projects 
-<a href="https://github.com/popisgod/Chat_Room">
+<a href="https://github.com/popisgod/Chat-Room">
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=popisgod&repo=Chat_Room&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=popisgod&repo=Chat-Room&theme=tokyonight" />
   
 </a>
 
