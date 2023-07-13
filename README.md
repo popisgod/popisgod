@@ -126,6 +126,18 @@ Connect with me on GitHub, Twitter, or LinkedIn, and let's explore the possibili
   
 </a>
 
+<a href="https://github.com/popisgod/Space-Patrol">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=popisgod&repo=Space-Patrol&theme=tokyonight" />
+  
+</a>
+
+<a href="https://github.com/popisgod/Tic-Tac-Toe">
+
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=popisgod&repo=Tic-Tac-Toe&theme=tokyonight" />
+  
+</a>
+
 
 ## 🗺️ Roadmap 
 
