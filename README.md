@@ -132,7 +132,7 @@ Connect with me on GitHub, Twitter, or LinkedIn, and let's explore the possibili
   
 </a>
 
-<a href="https://github.com/popisgod/Tic-Tac-Toe">
+<a href="https://github.com/popisgod/Advent-of-Code">
 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=popisgod&repo=Tic-Tac-Toe&theme=tokyonight" />
   
