@@ -1,1 +1,2 @@
-![Ron GLozman popisgod 17 yr](https://github.com/popisgod/popisgod/assets/93617974/b1b56e33-568e-4834-b30f-1fedfed598f7)
+![Ron GLozman popisgod 17 yr](![image](https://github.com/glozir/glozir/assets/93617974/4f3297ce-0413-4406-b0fb-ba03a1519aa7)
+)
